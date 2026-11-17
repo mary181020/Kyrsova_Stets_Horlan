@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\KYRSOVA\\finalcode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A900A832-CB99-4B0C-8199-D62B195E2863}|finalcode\\finalcode.pyproj|C:\\Users\\hp\\OneDrive\\Desktop\\KYRSOVA\\finalcode\\finalcode\\finalcode.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A900A832-CB99-4B0C-8199-D62B195E2863}|finalcode\\finalcode.pyproj|solutionrelative:finalcode\\finalcode.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "finalcode.py",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\KYRSOVA\\finalcode\\finalcode\\finalcode.py",
+              "RelativeDocumentMoniker": "finalcode\\finalcode.py",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\KYRSOVA\\finalcode\\finalcode\\finalcode.py*",
+              "RelativeToolTip": "finalcode\\finalcode.py*",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-17T16:24:16.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
